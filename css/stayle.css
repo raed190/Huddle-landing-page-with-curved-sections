@@ -94,6 +94,7 @@ body {
   }
 }
 
+/* ===== Start Header ===== */
 header {
   position: relative;
 }
@@ -198,7 +199,9 @@ header .statistics span {
     text-align: center;
   }
 }
+/* ===== End Header =====*/
 
+/* ===== Start Services =====*/
 .services .container .info {
   flex-basis: 50%;
 }
@@ -331,6 +334,9 @@ header .statistics span {
     padding: 10rem 0;
   }
 }
+/* ===== End Services =====*/
+
+/* ===== Start Build =====*/
 .bulid {
   padding: var(--padding-section) 0;
   display: flex;
@@ -364,6 +370,9 @@ header .statistics span {
     padding: 1rem 3rem;
   }
 }
+/* ===== End Build =====*/
+
+/* ===== Start Footer =====*/
 footer {
   background-color: var(--Very-Dark-Cyan);
   position: relative;
@@ -536,3 +545,4 @@ footer .container {
     transform: translateX(82%);
   }
 }
+/* ===== End Footer =====*/
