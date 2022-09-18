@@ -477,9 +477,6 @@ footer .container {
   line-height: 1.5;
 }
 
-.news form label {
-  display: none;
-}
 .news form input[type="email"] {
   outline: 0;
   border: 0;
