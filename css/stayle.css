@@ -57,6 +57,7 @@ html {
 h1,
 h2 {
   font-family: "Poppins", sans-serif;
+  color: var(--Very-Dark-Cyan);
 }
 /* ===== End Rest =====*/
 body {
@@ -119,7 +120,6 @@ header .info {
 
 header .info h1 {
   font-size: 3rem;
-  color: var(--Very-Dark-Cyan);
 }
 header .info p {
   font-size: var(--font-size);
@@ -203,7 +203,6 @@ header .statistics span {
   flex-basis: 50%;
 }
 .services .container .info h2 {
-  color: var(--Very-Dark-Cyan);
   margin-bottom: 1rem;
   font-size: 3rem;
 }
@@ -460,6 +459,7 @@ footer .container {
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
+  color: #fff;
 }
 .news p {
   margin: 2rem 0;
