@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-pS18I7jP_R)
-- Live Site URL: [live site URL ](https://raed190.github.io/Huddle-landing-page-with-a-single-introductory-section/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-responsive-using-css-flex-iP6Mcl0KV3)
+- Live Site URL: [live site URL ](https://raed190.github.io/Huddle-landing-page-with-curved-sections/)
 
 ## My process
 
